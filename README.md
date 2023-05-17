@@ -1,5 +1,5 @@
 # Description
-List of crypto debit cards provider supporting cryptocurencies. Check also [Crypto Debit Cards]([https://0ut3r.space/2018/12/10/crypto-exchange/](https://0ut3r.space/2018/07/30/crypto-debit-cards/) it all started there.
+List of crypto debit cards provider supporting cryptocurencies. Check also [Crypto Debit Cards](https://0ut3r.space/2018/07/30/crypto-debit-cards/) it all started there.
 
 Some of the URLs are my referral links.
 
@@ -15,11 +15,11 @@ Some of the URLs are my referral links.
 + **Fees** - :dollar: Monthly fee / :free: No monthly fees + link to pricing
 
 ## KYC/AML
-Before use, please read about [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) guidelines and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) controls. It is important if you want to swap coins fully anonymous or you don't mind to be verified. Most of swap services that have KYC/AML option need to verify your identity even on refund (some do refund without verification), so please double check details on each swap service with KYC/AML. In my opinion operating crypto should be anonymous and allowed to all people without restrictions, but I also understand companies protecting their assets, brands and safety from money laundering. So it is up to you which one you will choose. I am using both. In my case it always depends, if coins are from drug selling, or from my uncle from USA, as we all know only drug dealers, killers, my uncle and in general criminals use cryptocurrency. [THAT_WAS_A_JOKE]. So never think about KYC/ML swaps as worse, they can just occasionally verify your identity.
+Before use, please read about [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) guidelines and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) controls. It is important if you want to swap coins fully anonymous or you don't mind to be verified. Most of crypto debit card provider that have KYC/AML option need to verify your identity even on refund (some do refund without verification), so please double check details on each provider with KYC/AML. In my opinion operating crypto should be anonymous and allowed to all people without restrictions, but I also understand companies protecting their assets, brands and safety from money laundering. So it is up to you which one you will choose. I am using both. In my case it always depends, if coins are from drug selling, or from my uncle from USA, as we all know only drug dealers, killers, my uncle and in general criminals use cryptocurrency. [THAT_WAS_A_JOKE]. So never think about KYC/ML swaps as worse, they can just occasionally verify your identity and freez your founds for that time.
 
 ## Double check
 
-Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try in Google/Reedit other forums to make sure that listed service not became a scam in the meantime. I verify all listed services here by registering account and do some pyment. If you see any errors, have additional info or you found new service and want to verify it, please feel free to submit it, and I will update the list.
+Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try in Google/Reddit other forums to make sure that listed service not became a scam in the meantime. I verify all listed services here by registering account and do some pyment. If you see any errors, have additional info or you found new service and want to verify it, please feel free to submit it, and I will update the list.
 
 ## The List
 
