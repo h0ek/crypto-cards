@@ -25,4 +25,4 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try 
 
 | Name | Active | Anonymous | Affiliate* | TrustPilot | Type | Region | Provider | Fees |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| todo | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| :---: |
+| todo | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
