@@ -10,7 +10,7 @@ Some of the URLs are my referral links.
 + **Affilate system** - :link: Yes / :heavy_minus_sign: No 
 + **TrustPilot** - :star: Listed on TrustPilot + link / Not listed :heavy_minus_sign:
 + **Type** - :globe_with_meridians: Virtual / :credit_card: Plastic
-+ **Region** - :deciduous_tree: EU / :cactus: US
++ **Region** - :deciduous_tree: EU / :cactus: US :us:
 + **Provider** - Visa/Mastercard
 + **Fees** - :dollar: Monthly fee / :free: No monthly fees + link to pricing
 
