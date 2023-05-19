@@ -25,42 +25,42 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try 
 
 | Name                                                         |          Active          | Anonymous |     Affiliate      | TrustPilot | Type |    Region     |      Provider      | Fees |
 | :----------------------------------------------------------- | :----------------------: | :-------: | :----------------: | :--------: | :--: | :-----------: | :----------------: | :--: |
-| [Monolith](https://monolith.xyz/)                            | :white_check_mark: |   :heavy_exclamation_mark:    | :heavy_minus_sign: | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Uphold](https://uphold.com/debit-card?kid=1FB3KV)           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Wirex](https://wirexapp.com/r/hoek)                         | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Advanced Cash](https://wallet.advcash.com:443/referral/91ea2f45-0cb7-488b-bf05-a442d1c74ab4) | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Ledger CL Card](https://shop.ledger.com/?r=a99f1ff55b1f)    | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Moon](https://paywithmoon.com/)                             |    :white_check_mark:    |  :+1: |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [PST](https://pst.net/)                                      |    :white_check_mark:    |  :+1: |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [CoinDebit](https://www.coindebit.io/)                       |    :white_check_mark:    |  :+1: |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [TenX](https://www.tenx.tech/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       |   :star:   | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Uquid](https://uquid.com/)                                  | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Plutus](https://plutus.it/)                                 | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Aximetria](https://www.aximetria.com/)                      | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Change](https://www.getchange.com/)                         | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Trastra](https://trastra.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Spectro Coin](https://spectrocoin.com/)                     | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       |   :star:   | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Monaco](https://mco.crypto.com/)                            | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [TokenCard](https://tokencard.io/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [CryptoPay](https://cryptopay.me/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Bitwala](https://www.bitwala.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Xapo](https://www.xapo.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [CoinsBank](https://coinsbank.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [BitPay](https://bitpay.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Revolut](https://www.revolut.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Change](https://www.changeinvest.com/)                      | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [WageCan](https://wagecan.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [FCF Pay](https://fcfpay.com/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [NearPay](https://nearpay.co/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Bit2Me](https://bit2me.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Zumo](https://zumo.tech/)                                   | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [CryptoPay](https://cryptopay.me/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Kinesis](https://kinesis.money/)                            | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Busha](https://www.busha.co/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Bitmama](https://bitmama.io/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [FastCoinCard](https://fastcoincard.com/)                    | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [PayWide](https://www.paywide.io/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [Spendl](https://getspendl.com/)                             | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
-| [RewCard](https://rewcard.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | :green_heart: | :heavy_minus_sign: | Fees |
+| [Monolith](https://monolith.xyz/)                            | :white_check_mark: |   :heavy_exclamation_mark:    | todo | :star: TP  | todo | todo | todo | Fees |
+| [Uphold](https://uphold.com/debit-card?kid=1FB3KV)           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Wirex](https://wirexapp.com/r/hoek)                         | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Advanced Cash](https://wallet.advcash.com:443/referral/91ea2f45-0cb7-488b-bf05-a442d1c74ab4) | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Ledger CL Card](https://shop.ledger.com/?r=a99f1ff55b1f)    | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Moon](https://paywithmoon.com/)                             |    :white_check_mark:    |  :+1: |       :link:       | :star: [TP](https://www.trustpilot.com/review/paywithmoon.com) | todo | todo | todo | Fees |
+| [PST](https://pst.net/)                                      |    :white_check_mark:    |  :+1: |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [CoinDebit](https://www.coindebit.io/)                       |    :white_check_mark:    |  :+1: |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [TenX](https://www.tenx.tech/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       |   :star:   | todo | todo | todo | Fees |
+| [Uquid](https://uquid.com/)                                  | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Plutus](https://plutus.it/)                                 | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Aximetria](https://www.aximetria.com/)                      | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Change](https://www.getchange.com/)                         | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Trastra](https://trastra.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Spectro Coin](https://spectrocoin.com/)                     | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       |   :star:   | todo | todo | todo | Fees |
+| [Monaco](https://mco.crypto.com/)                            | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [TokenCard](https://tokencard.io/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [CryptoPay](https://cryptopay.me/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Bitwala](https://www.bitwala.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Xapo](https://www.xapo.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [CoinsBank](https://coinsbank.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [BitPay](https://bitpay.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Revolut](https://www.revolut.com/)                          | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Change](https://www.changeinvest.com/)                      | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [WageCan](https://wagecan.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [FCF Pay](https://fcfpay.com/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [NearPay](https://nearpay.co/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Bit2Me](https://bit2me.com/)                                | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Zumo](https://zumo.tech/)                                   | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [CryptoPay](https://cryptopay.me/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Kinesis](https://kinesis.money/)                            | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Busha](https://www.busha.co/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Bitmama](https://bitmama.io/)                               | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [FastCoinCard](https://fastcoincard.com/)                    | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [PayWide](https://www.paywide.io/)                           | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [Spendl](https://getspendl.com/)                             | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
+| [RewCard](https://rewcard.com/)                              | :white_check_mark: |   :heavy_exclamation_mark:    |       :link:       | :star: TP  | todo | todo | todo | Fees |
 
 You might also want to check [crypto swap services provider](https://github.com/h0ek/crypto-swap).
