@@ -6,7 +6,7 @@ Some of the URLs are my referral links.
 ## Legend
 + **Name** - Link to the service (sometimes it is reflink, please use to support my work)
 + **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead / :coffee: Temporary offline
-+ **Anonymous** - :+1: Yes /:heavy_exclamation_mark: No + link to KYC/AML
++ **Anonymous** - :+1: Yes / :heavy_exclamation_mark: No + link to KYC/AML
 + **Affilate system** - :link: Yes / :heavy_minus_sign: No 
 + **TrustPilot** - :star: Listed on TrustPilot + link / Not listed :heavy_minus_sign:
 + **Type** - :globe_with_meridians: Virtual / :credit_card: Plastic
@@ -25,45 +25,45 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try 
 
 | Name | Active | Anonymous | Affiliate* | TrustPilot | Type | Region | Provider | Fees |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Monolith | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Uphold | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Wirex | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Advanced Cash | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Ledger CL Card | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Monolith | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Uphold | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Wirex | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Advanced Cash | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Ledger CL Card | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
 | Moon  | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
 | PST | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
 | CoinDebit | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| TenX | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Uquid | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Plutus | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Aximetria | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Change | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Trastra | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Spectro Coin | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Monaco | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| TokenCard | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Spectro Coin | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Monaco | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| TokenCard | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| CryptoPay | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Bitwala | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Xapo | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| CoinsBank | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| BitPay | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Revolut | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Change | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| WageCan | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| FCF Pay | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| NearPay | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Bit2Me | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Zumo | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| CryptoPay | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Kinesis | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Busha | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Bitmama | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| FastCoinCard | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| PayWide | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| Spendl | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
-| RewCard | :white_check_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| TenX | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Uquid | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Plutus | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Aximetria | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Change | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Trastra | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Spectro Coin | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Monaco | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| TokenCard | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Spectro Coin | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Monaco | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| TokenCard | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| CryptoPay | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Bitwala | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Xapo | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| CoinsBank | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| BitPay | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Revolut | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Change | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| WageCan | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| FCF Pay | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| NearPay | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Bit2Me | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Zumo | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| CryptoPay | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Kinesis | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Busha | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Bitmama | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| FastCoinCard | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| PayWide | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| Spendl | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
+| RewCard | :heavy_exclamation_mark: | :+1: | :link: 40% | :star: [TP](https://totom) | todo | :green_heart: |:heavy_minus_sign:| Fees|
 
 You might also want to check [crypto swap services provider](https://github.com/h0ek/crypto-swap).
