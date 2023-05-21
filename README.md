@@ -12,7 +12,7 @@ Some of the URLs are my referral links.
 + **Type** - :globe_with_meridians: Virtual / :credit_card: Plastic
 + **Region** - :deciduous_tree: EU / :cactus: US / :tea: UK / :earth_africa: World 
 + **Provider** - :large_blue_diamond: Visa / :red_circle: Mastercard
-+ **Fees** - :calendar: Monthly/Yearly fee / :free: No recurring fees + link to pricing
++ **Fees** - :calendar: Monthly or yearly fee / :free: No recurring fees + link to pricing
 
 ## KYC/AML
 Before use, please read about [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) guidelines and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) controls. It is important if you want to swap coins fully anonymous or you don't mind to be verified. Most of crypto debit card provider that have KYC/AML option need to verify your identity even on refund (some do refund without verification), so please double check details on each provider with KYC/AML. In my opinion operating crypto should be anonymous and allowed to all people without restrictions, but I also understand companies protecting their assets, brands and safety from money laundering. So it is up to you which one you will choose. I am using both. In my case it always depends, if coins are from drug selling, or from my uncle from USA, as we all know only drug dealers, killers, my uncle and in general criminals use cryptocurrency. [THAT_WAS_A_JOKE]. So never think about KYC/ML crypto debit cards as worse, they can just occasionally verify your identity and freeze your founds for that time.
