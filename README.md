@@ -23,7 +23,7 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) or try 
 
 ## The List
 
-| Name                                                         |          Active          | Anonymous |     Affiliate      | TrustPilot | Type |    Region     |      Provider      | Fee | Pricing |
+| Name                                                         |          Active          | Anonymous |     Affiliate      | TrustPilot | Type |    Region     |      Provider      | Fee | Prices |
 | :----------------------------------------------------------- | :----------------------: | :-------: | :----------------: | :--------: | :--: | :-----------: | :----------------: | :--: | :----: |
 | [Monolith](https://monolith.xyz/)                            | :white_check_mark: |   :heavy_exclamation_mark:    | :heavy_minus_sign: | :star: [TP](https://www.trustpilot.com/review/monolith.xyz) | :globe_with_meridians: :credit_card: | :earth_africa: | :large_blue_diamond: | :free: | [Link](https://monolith.xyz/pricing/card/gbp) |
 | [Uphold](https://uphold.com/debit-card?kid=1FB3KV)           | :coffee: |   :heavy_exclamation_mark:    |       :link:       | :star: [TP](https://www.trustpilot.com/review/uphold.com) | :credit_card: | :tea: | :red_circle: | :free: | :heavy_minus_sign: |
