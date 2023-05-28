@@ -6,7 +6,7 @@ Some of the URLs are my referral links.
 ## Legend
 + **Name** - Link to the service (sometimes it is reflink, please use to support my work)
 + **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead / :coffee: Temporary offline
-+ **Anonymous** - :+1: Yes or to some limits / :heavy_exclamation_mark: No + link to KYC/AML
++ **Anonymous** - :+1: Yes or to some limits / :heavy_exclamation_mark: No, KYC/AML
 + **Affilate system** - :link: Yes / :heavy_minus_sign: No 
 + **TrustPilot** - :star: Listed on TrustPilot + link / Not listed :heavy_minus_sign:
 + **Type** - :globe_with_meridians: Virtual / :credit_card: Plastic
