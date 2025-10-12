@@ -1,5 +1,5 @@
 # Description
-Basic list of crypto debit cards provider supporting cryptocurencies. For more details go to the dedicated page [Swap Cab](https://swap.cab/).
+Basic list of crypto debit cards provider supporting cryptocurencies.
 
 Some of the URLs are my referral links.
 
