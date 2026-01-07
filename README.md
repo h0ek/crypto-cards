@@ -19,7 +19,7 @@ Before using, please read about [Know Your Customer](https://en.wikipedia.org/wi
 
 ## Double check
 
-Always double check reviews on [TrustPilot](https://www.trustpilot.com/), [BitcoinTalk](https://bitcointalk.org/) forum, [SwpaCab](https://swap.cab/) page or [Reddit](https://www.reddit.com/) before using any of the card services listed below. If there are no reviews, try to get some opinions at [Google](https://google.com/)/[Bing](https://www.bing.com/)/[DuckDuck](https://duckduckgo.com/) to make sure that the listed service has not become a scam in the meantime. I am testing some of the services listed here by signing up for an account and ordering a card and making a few payments to see if it works. If you see any errors, have additional information, or have found a new service and want to verify it, feel free to [submit it as issue on GitHub](https://github.com/h0ek/crypto-cards/issues) and I will update the list.
+Always double check reviews on [TrustPilot](https://www.trustpilot.com/), [BitcoinTalk](https://bitcointalk.org/) forum or [Reddit](https://www.reddit.com/) before using any of the card services listed below. If there are no reviews, try to get some opinions at [Google](https://google.com/)/[Bing](https://www.bing.com/)/[DuckDuck](https://duckduckgo.com/) to make sure that the listed service has not become a scam in the meantime. I am testing some of the services listed here by signing up for an account and ordering a card and making a few payments to see if it works. If you see any errors, have additional information, or have found a new service and want to verify it, feel free to [submit it as issue on GitHub](https://github.com/h0ek/crypto-cards/issues) and I will update the list.
 
 ## The List
 
